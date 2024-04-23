@@ -52,9 +52,13 @@ Use pickle module to dump and load models such as encoder(onehot/ label/ str.cat
 Model GUI
 Prediction of Selling price
 
-pred_sp
+![Screenshot 2024-04-23 215714](https://github.com/Mahes101/Industrial-Copper/assets/153369828/24f27910-26bc-41ec-a685-cf1ebba64b4c)
 
-Prediction of status
 
-pred_status
+
+Prediction of Status
+![Screenshot 2024-04-23 215741](https://github.com/Mahes101/Industrial-Copper/assets/153369828/3e48812f-cc0b-4879-90a1-d9cff9eb6fff)
+
+
+
 
